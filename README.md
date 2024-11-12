@@ -8,11 +8,11 @@
 
 Сначала клонируйте репозиторий на свой компьютер:
 
-```bash
-
+bash
+git clone https://github.com/jenytat/cyberia-project.git
+cd cyberia-project
 
 Перед началом работы установите все необходимые зависимости:
-
 
 npm install
 
